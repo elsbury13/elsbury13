@@ -1,4 +1,4 @@
-<img align="right" src="https://avatars1.githubusercontent.com/u/7148101?s=460&u=a6a9a9ef9c8f614071a9bfa0d7c92295477a44b0&v=4" alt="Illustration of Andy" width=350px height=350px/>
+<img align="right" src="https://mayden.co.uk/wp-content/uploads/2018/03/AndyE-2-blue.png" alt="Illustration of Andy" width=350px height=350px/>
 
 ### Hi, I'm Andy 👋
 
