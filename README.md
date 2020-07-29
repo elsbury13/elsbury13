@@ -16,6 +16,13 @@ Software Developer with a demonstrated history of working in the computer softwa
 - 🥊  Kickboxing instructor at  [TKKMA](https://www.tkkma.co.uk)
 - 💡  Currently learning node
 
+#### Hobbies
+⚽ 
+🏂
+🎾 
+🏃‍♂️ 
+🥋
+
 ### Find Me
 
 | Name | Link |
