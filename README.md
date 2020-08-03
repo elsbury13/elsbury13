@@ -2,7 +2,7 @@
 
 ### Hi, I'm Andy 👋
 
-Software Developer with a demonstrated history of working in the computer software industry. Graduated from University of Plymouth.
+Software Developer with a demonstrated history of working in the computer software industry. Graduated from University of Plymouth with Bsc (Hons) Web Applications Development.
 
 - Scrum
 - JavaScript
