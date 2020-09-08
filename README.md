@@ -9,6 +9,7 @@ Software Developer with a demonstrated history of working in the computer softwa
 - PHP
 - MySQL
 - Linux
+- Node
 
 ### About
 
