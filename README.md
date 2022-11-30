@@ -2,9 +2,9 @@
 <div align="right">
 ### About
 
-- 🧑‍💻  Software Developer at [Mayden](https://mayden.co.uk/) ([@may-den](https://github.com/may-de))
-- 🥊  Kickboxing instructor at  [TKKMA](https://www.tkkma.co.uk)
-- 💡  Currently learning node
+🧑‍💻  Software Developer at [Mayden](https://mayden.co.uk/) ([@may-den](https://github.com/may-de))
+🥊  Kickboxing instructor at  [TKKMA](https://www.tkkma.co.uk)
+💡  Currently learning node
 </div>
 
 ### Hi, I'm Andy 👋
