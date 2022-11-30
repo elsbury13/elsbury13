@@ -1,6 +1,7 @@
-<img align="right" src="https://mayden.co.uk/wp-content/uploads/2018/03/AndyE-1-orange.png" alt="Illustration of Andy" width=350px height=350px/>
 <div align="right">
+  
 ### About
+<img src="https://mayden.co.uk/wp-content/uploads/2018/03/AndyE-1-orange.png" alt="Illustration of Andy" width=350px height=350px/>
 
 🧑‍💻  Software Developer at [Mayden](https://mayden.co.uk/) ([@may-den](https://github.com/may-de))
 🥊  Kickboxing instructor at  [TKKMA](https://www.tkkma.co.uk)
