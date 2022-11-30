@@ -26,7 +26,7 @@ Software Developer with a demonstrated history of working in the computer softwa
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elsbury13&show_icons=true&count_private=true&theme=transparent&title_color=013220&icon_color=013220)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elsbury13&layout=compact&title_color=013220)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elsbury13&layout=compact&title_color=013220)
 
 ### Find Me
 
