@@ -1,4 +1,11 @@
 <img align="right" src="https://mayden.co.uk/wp-content/uploads/2018/03/AndyE-1-orange.png" alt="Illustration of Andy" width=350px height=350px/>
+<div align="right">
+### About
+
+- 🧑‍💻  Software Developer at [Mayden](https://mayden.co.uk/) ([@may-den](https://github.com/may-de))
+- 🥊  Kickboxing instructor at  [TKKMA](https://www.tkkma.co.uk)
+- 💡  Currently learning node
+</div>
 
 ### Hi, I'm Andy 👋
 
@@ -10,12 +17,6 @@ Software Developer with a demonstrated history of working in the computer softwa
 - MySQL
 - Linux
 - Node
-
-### About
-
-- 🧑‍💻  Software Developer at [Mayden](https://mayden.co.uk/) ([@may-den](https://github.com/may-de))
-- 🥊  Kickboxing instructor at  [TKKMA](https://www.tkkma.co.uk)
-- 💡  Currently learning node
 
 #### Hobbies
 ⚽ 
