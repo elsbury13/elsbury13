@@ -8,6 +8,7 @@
 💡  Currently learning node
 </div>
 
+<div align="left">
 ### Hi, I'm Andy 👋
 
 Software Developer with a demonstrated history of working in the computer software industry. Graduated from University of Plymouth with Bsc (Hons) Web Applications Development.
@@ -38,3 +39,4 @@ Software Developer with a demonstrated history of working in the computer softwa
 | Email | andy.elsbury@gmail.com |
 | Twitter | [@AndyElsbury](https://twitter.com/AndyElsbury) |
 | LinkedIn | [AndyElsbury](https://www.linkedin.com/in/andy-elsbury) |
+  </div>
