@@ -1,14 +1,11 @@
-<div align="right">
-  
+<img align="right" src="https://mayden.co.uk/wp-content/uploads/2018/03/AndyE-1-orange.png" alt="Illustration of Andy" width=350px height=350px/>
+
 ### About
-<img src="https://mayden.co.uk/wp-content/uploads/2018/03/AndyE-1-orange.png" alt="Illustration of Andy" width=350px height=350px/>
 
 🧑‍💻  Software Developer at [Mayden](https://mayden.co.uk/) ([@may-den](https://github.com/may-de))
 🥊  Kickboxing instructor at  [TKKMA](https://www.tkkma.co.uk)
 💡  Currently learning node
-</div>
 
-<div align="left">
 ### Hi, I'm Andy 👋
 
 Software Developer with a demonstrated history of working in the computer software industry. Graduated from University of Plymouth with Bsc (Hons) Web Applications Development.
@@ -39,4 +36,3 @@ Software Developer with a demonstrated history of working in the computer softwa
 | Email | andy.elsbury@gmail.com |
 | Twitter | [@AndyElsbury](https://twitter.com/AndyElsbury) |
 | LinkedIn | [AndyElsbury](https://www.linkedin.com/in/andy-elsbury) |
-  </div>
