@@ -6,6 +6,8 @@
 🥊  Kickboxing instructor at  [TKKMA](https://www.tkkma.co.uk)
 💡  Currently learning node
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+,+i'm+Andy+👋;)](https://git.io/typing-svg)
+
 ### Hi, I'm Andy 👋
 
 Software Developer with a demonstrated history of working in the computer software industry. Graduated from University of Plymouth with Bsc (Hons) Web Applications Development.
