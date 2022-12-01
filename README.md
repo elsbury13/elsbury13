@@ -1,6 +1,7 @@
 <img align="right" src="https://mayden.co.uk/wp-content/uploads/2018/03/AndyE-1-orange.png" alt="Illustration of Andy" width=350px height=350px/>
 
-<br>
+#
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+,+i'm+Andy+👋;)](https://git.io/typing-svg)
 
 ### About
