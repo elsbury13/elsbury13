@@ -4,7 +4,7 @@
 
 ### About
 
-🧑‍💻  Software Developer at [Mayden](https://mayden.co.uk/) ([@may-den](https://github.com/may-de))
+🧑‍💻  Software Developer at [Mayden](https://mayden.co.uk/) ([@may-den](https://github.com/may-den))
 🥊  Kickboxing instructor at  [TKKMA](https://www.tkkma.co.uk)
 💡  Currently learning node
 
