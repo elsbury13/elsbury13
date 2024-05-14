@@ -33,4 +33,4 @@ Software Developer with a demonstrated history of working in the computer softwa
 | Twitter | [@AndyElsbury](https://twitter.com/AndyElsbury) |
 | LinkedIn | [AndyElsbury](https://www.linkedin.com/in/andy-elsbury) |
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=elsbury13)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=elsbury13&left_color=green&right_color=red)
