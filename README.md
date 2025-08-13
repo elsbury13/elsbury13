@@ -6,7 +6,9 @@
 🥊  Kickboxing instructor at  [TKKMA](https://www.tkkma.co.uk)
 💡  Currently learning node
 
-Software Developer with a demonstrated history of working in the computer software industry. Graduated from University of Plymouth with Bsc (Hons) Web Applications Development.
+Full stack developer with extensive experience in PHP / JavaScript. Has a scrum master qualification as well as experience in coaching and mentoring other developers and colleagues.
+
+Highly proficient in a wide range of modern web technologies, demonstrating expertise in both backend and frontend development. Strong record of proposing and leading major system and infrastructure upgrades, creating automation scripts to improve developer workflows, and spearheading code deployment processes.
 
 - Scrum
 - JavaScript
