@@ -14,28 +14,28 @@ Highly proficient in a wide range of modern web technologies, demonstrating expe
 #### Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,rails,wordpress" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=php,laravel,nodejs,rails,wordpress" />
   </a>
 </p>
 
 #### Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,jest,html,css,jquery,react,nextjs,redux,tailwind" />
+    <img src="https://go-skill-icons.vercel.app/api/icons??i=ts,js,jest,html,css,jquery,react,nextjs,redux,tailwind" />
   </a>
 </p>
 
 #### Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+    <img src="https://go-skill-icons.vercel.app/api/icons??i=mysql,sqlite" />
   </a>
 </p>
 
 #### Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,nginx,docker,linux,vscode,postman,raspberrypi,selenium" />
+    <img src="https://go-skill-icons.vercel.app/api/icons??i=git,github,githubactions,nginx,docker,linux,vscode,postman,raspberrypi,selenium" />
   </a>
 </p>
 
