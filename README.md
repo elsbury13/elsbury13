@@ -13,7 +13,7 @@ Highly proficient in a wide range of modern web technologies, demonstrating expe
 
 #### Backend
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=php,laravel,nodejs,rails,wordpress" />
   </a>
 </p>
