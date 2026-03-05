@@ -13,30 +13,22 @@ Highly proficient in a wide range of modern web technologies, demonstrating expe
 
 #### Backend
 <p align="left">
-  <a>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=php,laravel,nodejs,rails,wordpress" />
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=php,laravel,nodejs,rails,wordpress" />
 </p>
 
 #### Frontend
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons??i=ts,js,jest,html,css,jquery,react,nextjs,redux,tailwind" />
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons??i=ts,js,jest,html,css,jquery,react,nextjs,redux,tailwind" />
 </p>
 
 #### Database
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons??i=mysql,sqlite" />
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons??i=mysql,sqlite" />
 </p>
 
 #### Tools
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons??i=git,github,githubactions,nginx,docker,linux,vscode,postman,raspberrypi,selenium" />
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons??i=git,github,githubactions,nginx,docker,linux,vscode,postman,raspberrypi,selenium" />
 </p>
 
 #### Hobbies
